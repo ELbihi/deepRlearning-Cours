@@ -1,4 +1,6 @@
-# 🧠 Deep RL Explorer
+# Deep Reinforcement Learning — ENIAD 2025-2026
+ 
+**Brahim Bassor** · IA2 · Pr. BOUTAHIR Mohamed Khalifa
 
 **Interactive educational dashboard for Deep Reinforcement Learning**  
 Practical submission — Deep Reinforcement Learning course
@@ -121,8 +123,5 @@ The app was designed to consolidate and present course knowledge in an innovativ
 
 ---
 
-## 👤 Author
 
-Student project — Deep Reinforcement Learning Course  
-Faculty submission via course platform
 #
