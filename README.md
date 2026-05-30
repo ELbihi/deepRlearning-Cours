@@ -9,7 +9,7 @@ Practical submission — Deep Reinforcement Learning course
 
 ## 📋 Description
 
-**Deep RL Explorer** is a single-file interactive web application (`drl-explorer-light.html`) that serves as a complete study and revision tool for Deep Reinforcement Learning algorithms. It was built as a practical project for a university DRL course.
+**Deep RL Explorer** is a single-file interactive web application (`index.html`) that serves as a complete study and revision tool for Deep Reinforcement Learning algorithms. It was built as a practical project for a university DRL course.
 
 The app covers the four main algorithms studied in the course, with interactive visualizations, mathematical formulas, comparative analysis, and a full quiz system.
 
@@ -19,7 +19,7 @@ The app covers the four main algorithms studied in the course, with interactive 
 
 No installation required. The project is a **single self-contained HTML file**.
 
-1. Download `drl-explorer-light.html`
+1. Download `index.html`
 2. Open it in any modern web browser (Chrome, Firefox, Edge, Safari)
 3. That's it — no server, no dependencies to install
 
@@ -108,7 +108,7 @@ No installation required. The project is a **single self-contained HTML file**.
 ## 📁 File Structure
 
 ```
-drl-explorer-light.html   ← Single self-contained file (HTML + CSS + JS)
+index.html   ← Single self-contained file (HTML + CSS + JS)
 README.md                 ← This file
 ```
 
